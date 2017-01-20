@@ -4,10 +4,10 @@
 
 | Sarja | Tuotantokausi |
 |:------|--------------:|
-| HIMYM |       1       |
-| HIMYM |       2       |
-| HIMYM |       3       |
-| HIMYM |       4       |
+| How I Met Your Mother |       1       |
+| How I Met Your Mother |       2       |
+| How I Met Your Mother |       3       |
+| How I Met Your Mother |       4       |
 
 
 ## Alaotsikko
